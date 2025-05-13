@@ -22,13 +22,14 @@ A machine learning-powered application that analyzes heartbeat audio recordings 
 
 ## 📁 Project Structure
 
+```
 smart-stethoscope-ai/
 │
 ├── app.py # Streamlit app
 ├── smart_stethoscope_rf_model.pkl # Trained Random Forest model
 ├── requirements.txt # Dependencies
 └── README.md # Project documentation
-
+```
 
 ## 📊 Model Training
 
